@@ -12,3 +12,5 @@ Roblox :-
 Building : 4 years of experience
 Scripting : 2 year of experience
 GFX/GUI/Clothing : 5 months of experience
+
+Here is my discord server! : https://discord.gg/5rUBfnqa3n
