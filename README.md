@@ -1,16 +1,13 @@
-Why hello there fellow internet user! My name's Afaz
+Salutations! The name's Afaz
 
-I'm a roblox and godot developer who is developing a game
+I am a roblox and godot developer who develops games and other softwares and work mostly during my holidays
 
-I'm also the head developer of [Regain Control] and Stickman Ninja, the main builder of Grim Reaper Simulator and the owner of 『AFAZ's Studio』!
+I am the main developer of [Regain Control] and Stickman Ninja, and I aided in the development of the Grim Reaper Simulator. I am the original founder and owner of 『AFAZ's Studio』[ Discord Server : https://discord.gg/5rUBfnqa3n ]
 
-What I'm good at :
+Service :
 
-Godot : 2 years
+Godot : 3 years of experience
 
 Roblox :-
-Building : 3 years of experience
-Scripting : 2 year of experience
-GFX/GUI/Clothing : 5 months of experience
-
-Here is my discord server! : https://discord.gg/5rUBfnqa3n
+Building : 4 years of experience
+Scripting : 3 years of experience
