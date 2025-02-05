@@ -1,3 +1,3 @@
 Salutations! The name's Afaz
 
-I am a developer who can make anything and work mostly during my holidays
+I am a developer who can develop anything! I typically work on projects during my free time
