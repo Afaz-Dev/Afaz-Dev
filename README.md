@@ -5,7 +5,7 @@
 - 📖 I'm an 18 year old developer and a university student from Malaysia. My timezone is GMT+8.  
 - 🔍 Started learning software development at the age of 10.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-00c9a7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.firdauszaki.com/)
+- [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-2463eb?style=for-the-badge)](https://www.firdauszaki.com/)
 
 
 ### 🔧 Tech I work with
