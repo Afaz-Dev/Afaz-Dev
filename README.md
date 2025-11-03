@@ -5,6 +5,18 @@
 - 📖 I'm an 18 year old developer and a university student from Malaysia. My timezone is GMT+8.  
 - 🔍 Started learning software development at the age of 10.
 
+<a href="https://your-portfolio-link.com" target="_blank" style="
+  background:linear-gradient(90deg,#1e90ff,#00c9a7);
+  color:blue;
+  padding:10px 20px;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:600;
+  display:inline-block;
+">
+  🌐 Visit My Portfolio
+</a>
+
 
 ### 🔧 Tech I work with
 - 🎮 Game Development | Godot 4 (GDScript), Roblox Studio (Lua), Unity (C#)
