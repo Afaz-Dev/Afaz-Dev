@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Afaz-Dev/Afaz-Dev/main/Banner.png)
+<img src="https://raw.githubusercontent.com/Afaz-Dev/Afaz-Dev/main/Banner.png" alt="Banner" width="80%">
 
 ## 👋 Hey! I'm Firdaus Zaki [aka Afaz]
 
