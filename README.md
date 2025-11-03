@@ -20,8 +20,8 @@
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afaz-Dev&theme=transparent&hide_border=true&show_icons=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Afaz-Dev&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afaz-Dev&theme=transparent&hide_border=true&show_icons=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Afaz-Dev&theme=transparent&hide_border=true" height="170" />
 </div>
 
 
