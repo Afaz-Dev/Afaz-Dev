@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Afaz-Dev/Afaz-Dev/main/Banner.png)
 
-## 👋 Yo, I’m Afaz!
+## 👋 Hey! I'm Firdaus Zaki [aka Afaz]
 
 - 📖 I'm an 18 year old developer and a university student from Malaysia. My timezone is GMT+8.  
 - 🔍 Started learning software development at the age of 10.
