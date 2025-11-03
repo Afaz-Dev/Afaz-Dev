@@ -2,17 +2,17 @@
 
 ## 👋 Yo, I’m Afaz!
 
-| 📖 I'm an 18 year old developer and a university student from Malaysia. My timezone is GMT+8.  
-| 🔍 Started learning software development at the age of 10.
+-- 📖 I'm an 18 year old developer and a university student from Malaysia. My timezone is GMT+8.  
+-- 🔍 Started learning software development at the age of 10.
 
 
 ### 🔧 Tech I work with
-| 🎮 Game Development | Godot 4 (GDScript), Roblox Studio (Lua), Unity (C#)
-| 🧠 Backend Development | Python, FastAPI, Jinja2, PHP, SQLite
-| 🌐 Web Development | HTML, CSS, JS, React, Bootstrap, GrapeJS
-| ⚙️ System & Hardware | Arduino, ESP32, ESP8266, Raspberry Pi
-| 🧩 Programming Languages | Python, Lua, C#, C++, Rust, Javascript
-| ☁️ Interests | Aerospace, Orbital Mechanincs, AI & ML, Cybersecurity, Cloud & DevOps
+-- 🎮 Game Development | Godot 4 (GDScript), Roblox Studio (Lua), Unity (C#)
+-- 🧠 Backend Development | Python, FastAPI, Jinja2, PHP, SQLite
+-- 🌐 Web Development | HTML, CSS, JS, Svelte, React, Bootstrap, GrapeJS
+-- ⚙️ System & Hardware | Arduino, ESP32, ESP8266, Raspberry Pi
+-- 🧩 Programming Languages | Python, Lua, C#, C++, Rust, Javascript
+-- ☁️ Interests | Aerospace, Orbital Mechanincs, Software, Hardware, Electronics, Cultures, AI & ML, Cybersecurity, Cloud & DevOps
 
 
 ### 📊 GitHub Stats
@@ -22,11 +22,11 @@
 
 
 ### ☕ More About me
-| 🔭 Always curious with software and hardware
-| 🧳 Likes travelling
-| ✈️ Big aerospace and rocket engineering fan (I play ksp + heavy mods)
-| 🇨🇭🇲🇾 Grew up in both Switzerland and Malaysia. I speak English, Malay and German
-| ✉️ Open to connect, learn & collaborate
+-- 🔭 Always curious with software and hardware
+-- 🧳 Likes travelling
+-- ✈️ Big aerospace and rocket engineering fan (I play ksp + heavy mods)
+-- 🇨🇭🇲🇾 Grew up in both Switzerland and Malaysia. I speak English, Malay and German
+-- ✉️ Open to connect, learn & collaborate
 
 
 <div align="center">
