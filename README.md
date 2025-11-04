@@ -19,10 +19,10 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afaz-Dev&theme=transparent&hide_border=true&show_icons=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Afaz-Dev&theme=transparent&hide_border=true" height="170" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afaz-Dev&theme=transparent&hide_border=false&show_icons=true" alt="stats" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Afaz-Dev&theme=transparent&hide_border=false" alt="streak" height="160" />
+</p>
 
 
 ### ☕ More About me
