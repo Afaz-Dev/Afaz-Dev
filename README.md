@@ -25,7 +25,7 @@
 </p>
 
 
-### ☕ More About me
+### ☕ More about me
 - 🔭 Always curious with software and hardware
 - 🧳 Likes travelling
 - ✈️ Big aerospace and rocket engineering fan (I play ksp + heavy mods)
