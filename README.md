@@ -2,7 +2,7 @@
 
 ## 👋 Hey! I'm Firdaus Zaki [aka Afaz]
 
-- 📖 I'm an 18 year old developer and a university student from Malaysia. My timezone is GMT+8.  
+- 📖 I'm a 19 year old developer and a university student from Malaysia. My timezone is GMT+8.  
 - 🔍 Started learning software development at the age of 10.
 
 - [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-2463eb?style=for-the-badge)](https://www.firdauszaki.com/)
