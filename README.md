@@ -9,13 +9,13 @@
 
 
 ### Tech I work with
-- 🎮 Game Development | Godot 4 (GDScript), Roblox Studio (Lua), Unity (C#)
-- 🧠 Backend Development | Python, FastAPI, Jinja2, PHP, SQLite
-- 🌐 Web Development | HTML, CSS, JS, Svelte, React, Bootstrap, GrapeJS
-- ⚙️ Embedded systems & Hardware | Arduino, PlatformIO, Wokwi, ESP32, ESP8266, Raspberry Pi
-- 🚀 Flight, Sims & Avionics | KRPC, KSP, Orbiter, Flightgear, JSF Standard, Matplotlib
-- 🧩 Programming Languages | Python, Lua, C#, C++, Rust, Javascript
-- ☁️ Interests | Aerospace, Orbital Mechanincs, Software, Hardware, Electronics, Cultures, AI & ML, Cybersecurity, Cloud & DevOps
+-  Game Development | Godot 4 (GDScript), Roblox Studio (Lua), Unity (C#)
+-  Backend Development | Python, FastAPI, Jinja2, PHP, SQLite
+-  Web Development | HTML, CSS, JS, Svelte, React, Bootstrap, GrapeJS
+-  Embedded systems & Hardware | Arduino, PlatformIO, Wokwi, ESP32, ESP8266, Raspberry Pi
+-  Flight, Sims & Avionics | KRPC, KSP, Orbiter, Flightgear, JSF Standard, Matplotlib
+-  Programming Languages | Python, Lua, C#, C++, Rust, Javascript
+-  Interests | Aerospace, Orbital Mechanincs, Software, Hardware, Electronics, Cultures, AI & ML, Cybersecurity, Cloud & DevOps
 
 
 ### GitHub Stats
@@ -27,12 +27,12 @@
 
 
 ### More about me
-- 🔭 Always curious with software and hardware
-- 🧳 Likes travelling
-- ✈️ Big aerospace and rocket engineering fan (I play ksp + heavy mods, )
-- 🇨🇭🇲🇾 Grew up in both Switzerland and Malaysia. I speak English, Malay and German
-- 🐧 I use both Windows and Linux (Kubuntu) as dual boot
-- ✉️ Open to connect, learn & collaborate
+-  Always curious with software and hardware
+-  Likes travelling
+-  Big aerospace, astronomy and rocket engineering fan (I play ksp + heavy mods, flightgear and once owned a telescope)
+-  Grew up in both Switzerland and Malaysia. 🇨🇭🇲🇾 I can speak English, Malay and some rusty German (Hochdeutsch und Schweizerdeutsch)
+-  I use both Windows and Linux (Kubuntu) as dual boot
+-  Open to connect, learn & collaborate
 
 
 <div align="center">
