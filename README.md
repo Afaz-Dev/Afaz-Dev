@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Afaz-Dev/Afaz-Dev/main/Banner.png" alt="Banner" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/Afaz-Dev/Afaz-Dev/main/Banner.png" alt="Banner" width="100%"> -->
 
 ## Hey! I'm Firdaus Zaki [aka Afaz]
 
