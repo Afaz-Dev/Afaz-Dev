@@ -24,15 +24,3 @@
 </p>
 
 
-### More about me
--  Always curious with software and hardware
--  Likes travelling
--  Big aerospace, astronomy and rocket engineering fan (I play ksp + heavy mods, flightgear and once owned a telescope)
--  Grew up in both Switzerland and Malaysia. 🇨🇭🇲🇾 I can speak English, Malay and some rusty German (Hochdeutsch und Schweizerdeutsch)
--  I use both Windows and Linux (Kubuntu) as dual boot
--  Open to connect, learn & collaborate
-
-
-<div align="center">
-  <sub>“Made with ♥️ By Firdaus Zaki (Afaz)”</sub>
-</div>
