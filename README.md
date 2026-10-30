@@ -21,6 +21,7 @@
 
 <p align="left">
   <img src="https://ghstats.dev/api/card?username=Afaz-Dev" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=Afaz-Dev&layout=grid" alt="Top Languages" />
 </p>
 
 
