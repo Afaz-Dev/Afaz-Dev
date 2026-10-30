@@ -19,8 +19,8 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afaz-Dev&theme=transparent&hide_border=false&show_icons=true" alt="stats" height="160" />
+<p align="left">
+  <img src="https://ghstats.dev/api/card?username=Afaz-Dev" alt="GitHub Stats Card" />
 </p>
 
 
